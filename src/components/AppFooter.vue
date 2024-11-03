@@ -2,10 +2,12 @@
 export default {
     data() {
         return {
+           
 
         };
     },
     methods: {
+        
 
     }
 }
@@ -13,7 +15,7 @@ export default {
 
 <template>
     <footer>
-        FOOTER
+        
     </footer>
 </template>
 

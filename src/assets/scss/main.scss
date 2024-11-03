@@ -1,7 +1,5 @@
+// Import all of Bootstrap's CSS
+@use "bootstrap/scss/bootstrap";
 @use "partials/variables.scss" as *;
 @use "partials/mixins.scss" as *;
 
-h1 {
-    text-align: center;
-    color: lightcoral;
-}
